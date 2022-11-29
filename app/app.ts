@@ -12,4 +12,4 @@ if (form) {
   throw Error('Não foi possível inicializar a aplicação. Verificar se o form existe.')
 }
 
-console.log('hello')
+
